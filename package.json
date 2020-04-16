@@ -4,8 +4,12 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Nabin Bhandari",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "request": "^2.88.2"
+  }
 }
